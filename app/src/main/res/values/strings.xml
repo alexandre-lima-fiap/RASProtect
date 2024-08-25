@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RASProtect</string>
+    <string name="verificando_root_status">Verificando root status...</string>
+    <string name="security_type_unknown">Desconhecido</string>
+    <string name="security_type_open">Aberto</string>
+    <string name="security_type_wep">WEP</string>
+    <string name="security_type_psk">PSK</string>
+    <string name="security_type_eap">EAP</string>
+    <string name="security_type_sae">SAE</string>
+    <string name="security_type_eap_wpa3_enterprise_192_bit">EAP WPA3 Enterprise 192-bit</string>
+    <string name="security_type_owe">OWE</string>
+    <string name="security_type_wapi_psk">WAPI PSK</string>
+    <string name="security_type_wapi_cert">WAPI Cert</string>
+    <string name="security_type_eap_wpa3_enterprise">EAP WPA3 Enterprise</string>
+    <string name="security_type_osen">OSEN</string>
+    <string name="security_type_passpoint_r1_r2">Passpoint R1/R2</string>
+    <string name="security_type_passpoint_r3">Passpoint R3</string>
+    <string name="security_type_dpp">DPP</string>
+</resources>

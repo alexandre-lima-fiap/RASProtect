@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/textViewRootResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/verificando_root_status"
+        android:textSize="16sp" />
+    <TextView
+        android:id="@+id/textViewDeveloperModeResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/verificando_root_status"
+        android:textSize="16sp" />
+    <TextView
+        android:id="@+id/textViewDebuggerCheckResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Verificando debugger..."
+        android:layout_marginTop="16dp"/>
+    <TextView
+        android:id="@+id/textViewVMCheckResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Verificando máquina virtual..."
+        android:layout_marginTop="16dp"/>
+    <TextView
+        android:id="@+id/textViewBluetoothResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Verificando Bluetooth..."
+        android:layout_marginTop="16dp"/>
+    <TextView
+        android:id="@+id/textViewUsbResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Verificando dispositivos USB..."
+        android:layout_marginTop="16dp"/>
+    <TextView
+        android:id="@+id/textViewUsbHostResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Verificando host USB..."
+        android:layout_marginTop="16dp"/>
+    <TextView
+        android:id="@+id/textViewWifiSecurity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Verificando tipo de segurança da rede Wi-Fi..."
+        android:layout_marginTop="16dp"/>
+
+
+</LinearLayout>
