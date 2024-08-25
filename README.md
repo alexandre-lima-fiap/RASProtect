@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-%20Finalizado-yellow" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Em%20Progresso-yellow" alt="Status">
   <img src="https://img.shields.io/github/license/alexandre-lima-fiap/RASProtect" alt="License">
   <img src="https://img.shields.io/github/issues/alexandre-lima-fiap/RASProtect" alt="Contato">
 </p>
