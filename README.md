@@ -1,4 +1,7 @@
-# RASProtect
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/586beca2-9d53-406d-a38e-83c40ce8496c" alt="RASProtect" width="300"/>
+</div>
+
 
 ## Descrição
 
