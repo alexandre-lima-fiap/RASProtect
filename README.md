@@ -29,8 +29,3 @@ Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato
 - Alexandre - [linkedin.com/in/alfeli](https://linkedin.com/in/alfeli)
 - Paulo - [linkedin.com/in/prrf](https://linkedin.com/in/prrf)
 - Guilherme - [linkedin.com/in/guilhermetomio](https://linkedin.com/in/guilhermetomio)
-
-https://www.linkedin.com/in/alfeli
-https://www.linkedin.com/in/rafaelfbaptista
-https://www.linkedin.com/in/guilhermetomio
-https://www.linkedin.com/in/prrf
