@@ -25,7 +25,12 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato com a equipe:
 
-- Rafael - [rafael@example.com](mailto:rafael@example.com)
-- Alexandre - [alexandre@example.com](mailto:alexandre@example.com)
-- Paulo - [paulo@example.com](mailto:paulo@example.com)
-- Guilherme - [guilherme@example.com](mailto:guilherme@example.com)
+- Rafael - [linkedin.com/in/rafaelfbaptista](https://linkedin.com/in/rafaelfbaptista)
+- Alexandre - [linkedin.com/in/alfeli](https://linkedin.com/in/alfeli)
+- Paulo - [linkedin.com/in/prrf](https://linkedin.com/in/prrf)
+- Guilherme - [linkedin.com/in/guilhermetomio](https://linkedin.com/in/guilhermetomio)
+
+https://www.linkedin.com/in/alfeli
+https://www.linkedin.com/in/rafaelfbaptista
+https://www.linkedin.com/in/guilhermetomio
+https://www.linkedin.com/in/prrf
