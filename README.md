@@ -23,6 +23,13 @@ O **RASProtect** é uma aplicação de proteção em tempo de execução (RASP -
 
 O objetivo do RASProtect é monitorar e proteger aplicações em tempo real, garantindo que as ameaças sejam detectadas e mitigadas sem a necessidade de intervenção externa.
 
+RASProtect combate o seguinte tipo de ameaça:
+
+- Tentativa de Engenharia Reversa.
+- Tampering de APP`s, fraude ou manipulação de código
+- Aplicação rodando em um ambiente hostil (VM, Debugger)
+- Atua contra atividade de malware, como MITM e Privilege Escalation
+
 # *📎Functionalities*
 
 - **Verificador de Root:** Identifica e protege a aplicação contra a presença de um usuário root no dispositivo.
@@ -41,7 +48,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato com a equipe:
 
-- Rafael - [linkedin.com/in/rafaelfbaptista](https://linkedin.com/in/rafaelfbaptista)
-- Alexandre - [linkedin.com/in/alfeli](https://linkedin.com/in/alfeli)
-- Paulo - [linkedin.com/in/prrf](https://linkedin.com/in/prrf)
-- Guilherme - [linkedin.com/in/guilhermetomio](https://linkedin.com/in/guilhermetomio)
+- Rafael (AKA Rafox) - [linkedin.com/in/rafaelfbaptista](https://linkedin.com/in/rafaelfbaptista)
+- Alexandre (AKA Ale) - [linkedin.com/in/alfeli](https://linkedin.com/in/alfeli)
+- Paulo (AKA Paulyn) - [linkedin.com/in/prrf](https://linkedin.com/in/prrf)
+- Guilherme (AKA Tomio) - [linkedin.com/in/guilhermetomio](https://linkedin.com/in/guilhermetomio)
