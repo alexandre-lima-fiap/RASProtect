@@ -8,23 +8,22 @@
   <img src="https://img.shields.io/github/issues/alexandre-lima-fiap/RASProtect" alt="Contato">
 </p>
 
-# :memo: _Index_ 
-- [Descrição](#descrição)
-- [Objetivo](#objetivo)
-- [Funcionalidades](#funcionalidades)
-- [Licença](#licença)
-- [Contato](#contato)
+# *:memo: Index*
+- [Description](#-description)
+- [Objective](#-objective)
+- [Functionalities](#functionalities)
+- [License](#license)
+- [Contact](#%EF%B8%8Fcontact)
 
-
-# 📖 _Description_
+# *📖 Description*
 
 O **RASProtect** é uma aplicação de proteção em tempo de execução (RASP - Runtime Application Self Protection) desenvolvida para melhorar a segurança de aplicações ao fornecer uma camada adicional de proteção contra ameaças e vulnerabilidades conhecidas. O projeto foi criado por quatro alunos da Faculdade de Informática e Administração Paulista (FIAP), do curso de Defesa Cibernética, 2°Ano - 2024: Alexandre F. Lima; Guilherme S. Tomio; Paulo R. R. Ferreira; Rafael F. Baptista.
 
-# 🎯 _Objective_
+# *🎯 Objective*
 
 O objetivo do RASProtect é monitorar e proteger aplicações em tempo real, garantindo que as ameaças sejam detectadas e mitigadas sem a necessidade de intervenção externa.
 
-# :paperclip: _Functionalities_
+# *📎Functionalities*
 
 - **Verificador de Root:** Identifica e protege a aplicação contra a presença de um usuário root no dispositivo.
 - **Verificador de opção de desenvolvedor:** Identifica se a opção de desenvolvedor está ativa.
@@ -34,11 +33,11 @@ O objetivo do RASProtect é monitorar e proteger aplicações em tempo real, gar
 - **Verificador de rede:** Verifica se a rede conectada possui algum tipo de segurança/criptografia.
 - **Verificador de Bluetooth:** Verifica se está conectado ao bluetooth.
 
-# 📃 _Licence_
+# *📃License*
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-# ☎️ _WhoAreWe_
+# *☎️Contact*
 
 Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato com a equipe:
 
