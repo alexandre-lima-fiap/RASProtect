@@ -19,6 +19,8 @@
 
 O **RASProtect** é uma aplicação de proteção em tempo de execução (RASP - Runtime Application Self Protection) desenvolvida para melhorar a segurança de aplicações ao fornecer uma camada adicional de proteção contra ameaças e vulnerabilidades conhecidas. O projeto foi criado por quatro alunos da Faculdade de Informática e Administração Paulista (FIAP), do curso de Defesa Cibernética, 2°Ano - 2024: Alexandre F. Lima; Guilherme S. Tomio; Paulo R. R. Ferreira; Rafael F. Baptista.
 
+O arquivo .aar está localizado em app/rasprotectlib-debug.aar
+
 # *🎯 Objective*
 
 O objetivo do RASProtect é monitorar e proteger aplicações em tempo real, garantindo que as ameaças sejam detectadas e mitigadas sem a necessidade de intervenção externa.
